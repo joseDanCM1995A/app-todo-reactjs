@@ -1,0 +1,26 @@
+{
+    "tareas":[
+        {
+            "titulo": "tarea 1",
+            "responsable": "dan",
+            "descripcion": "lorem ipsum 1",
+            "fecha": "12/12/19",
+            "prioridad": "baja"
+        },
+        {
+            "titulo": "tarea 2",
+            "responsable": "dan",
+            "descripcion": "lorem ipsum 2",
+            "fecha": "12/10/19",
+            "prioridad": "media"
+
+        },
+        {
+            "titulo": "tarea 3",
+            "responsable": "jose",
+            "descripcion": "lorem ipsum 3",
+            "fecha": "10/10/19",
+            "prioridad": "alta"
+        }
+    ]
+}
